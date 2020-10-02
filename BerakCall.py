@@ -1,4 +1,4 @@
-<?python
+<?py
 // Limit 3x Telpon Setiap Satu Nomor
 function send($phone){
         $ch = curl_init();
